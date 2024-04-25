@@ -10,7 +10,7 @@ Based on specific project needs and constraints, Minikube is recommended for the
 
 ## DEMO
 ### Minikube
-
+[![Watch the video] https://asciinema.org/a/656352]
 ### kind
 
 ### k3d
